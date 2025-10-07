@@ -1,10 +1,9 @@
-# EXP-2
-EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+# EXP-2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
-Aim:
+# Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
-Apparatus Required:
+# Apparatus Required:
 
 Sl .no	Apparatus	Range	Type	Quantity
 1	Volt meter	(0-300)V	MC	1
@@ -24,20 +23,20 @@ Load test
 
 125 % of rated current (full load current)
 
-Precautions
+# Precautions
 
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
 4.   The DPST switch must be kept open.Procedure for open circuit test
-Procedure
+# Procedure
 1.   Connections are given as per the circuit diagram.
 2.   The motor is started with the help of THREE POINT starter.
 3.   Adjust the motor speed to rated speed by adjusting motor field rheostat when the generator is disconnected from the load by DPST switch 2.
 4.   By  varying  the  generator  field  rheostat  gradually,  the  open  circuit  voltage  [Eo]  and corresponding field current (If) are tabulated up to 125 % of rated voltage of generator.
 5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Procedure for Load test:
+# Procedure for Load test:
 
 1.   Connections are given as per the circuit diagram
 2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
@@ -47,11 +46,23 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation and ouput:
+# Tabulation and ouput:
+![WhatsApp Image 2025-10-07 at 10 38 21_1866b6a5](https://github.com/user-attachments/assets/37f3748b-ba4b-4562-8930-84dcc83c1948)
+![WhatsApp Image 2025-10-07 at 10 38 36_eb60e75a](https://github.com/user-attachments/assets/095f5c73-00c7-4846-8ace-c0adeb449ff0)
+<img width="773" height="510" alt="Screenshot 2025-10-07 103331" src="https://github.com/user-attachments/assets/20da1457-9b7d-406f-8f8a-edd1e7d478a3" />
+<img width="787" height="445" alt="Screenshot 2025-10-07 103418" src="https://github.com/user-attachments/assets/22186b1b-f08e-4f24-a564-d1af637bd8e3" />
+
+
+
+
+
+
+
+
  <img width="1101" height="913" alt="image" src="https://github.com/user-attachments/assets/f5839ac0-0291-49ed-9667-5c85162c7e0c" />
  <img width="1101" height="913" alt="image" src="https://github.com/user-attachments/assets/4479bd6d-342e-4781-9edf-fe0752410df2" />
 
 
  
-Result:
+# Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
